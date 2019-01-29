@@ -1,0 +1,7 @@
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Booger Face\Desktop\DCC CSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
